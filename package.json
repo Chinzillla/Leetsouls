@@ -21,7 +21,7 @@
   "license": "MIT",
   "author": "chinzillla",
   "type": "module",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "node src/main.js",
     "create:cache": "node src/first_sync.js"
