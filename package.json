@@ -20,9 +20,12 @@
   },
   "license": "MIT",
   "author": "chinzillla",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "test"
+  },
+  "dependencies": {
+    "puppeteer": "^25.2.1"
   }
 }
