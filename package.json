@@ -1,0 +1,28 @@
+{
+  "name": "leetsouls",
+  "version": "1.0.0",
+  "description": "Leetcode and soulslike combined to create hell",
+  "keywords": [
+    "leetcode",
+    "elden",
+    "ring",
+    "darksouls",
+    "coding",
+    "interview"
+  ],
+  "homepage": "https://github.com/Chinzillla/Leetsouls#readme",
+  "bugs": {
+    "url": "https://github.com/Chinzillla/Leetsouls/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinzillla/Leetsouls.git"
+  },
+  "license": "MIT",
+  "author": "chinzillla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
