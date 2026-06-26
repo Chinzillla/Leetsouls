@@ -20,9 +20,13 @@
   },
   "license": "MIT",
   "author": "chinzillla",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node src/main.js",
+    "create:cache": "node src/first_sync.js"
+  },
+  "dependencies": {
+    "puppeteer": "^25.2.1"
   }
 }
