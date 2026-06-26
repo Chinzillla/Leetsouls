@@ -9,7 +9,7 @@ Good luck. or just dont die
 ## Leetsouls Design
 ![alt text](<Leetsouls Design.png>)
 
-## Leetcode Randomizer DEsign
+## Leetcode Randomizer Design
 
 ## Elden Ring Edition
 
