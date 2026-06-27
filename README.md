@@ -6,26 +6,30 @@ Its leetcode embedded into Fromsoft games as a mod
 
 Good luck. or just dont die
 
-## Leetsouls Design
-![alt text](<Leetsouls Design.png>)
+### Supported Fromsoft games
 
-## Leetcode Randomizer Design
-
-## Elden Ring Edition
-
-Currently the only supported edition.
+- Elden Ring
 
 ### How to Install
 
 ### How to Run
 
-## Technologies Used
 
-puppeteer
+## Leetsouls Design
+![alt text](<Leetsouls Design.png>)
 
-## Details about architecture
+### Technologies Used
 
-### API Request vs Cache for Randomizer
+- Node.js 24.14.1
+- Puppeteer.js 25.2.1
+
+## Leetcode Randomizer Design
+
+![alt text](<Leetsouls Randomizer.png>)
+
+###  Details about architecture
+
+#### API Request vs Cache for Randomizer
 
 Moving from API Request per Randomize to Series of API Calls once, then caching the question names in json for fast lookup later.
 
