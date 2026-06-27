@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer';
-import fs from 'node:fs/promises';
+import fs from 'fs/promises';
 
 export async function getRandomQuestion(){
     const file = await fs.readFile('./leetcode-cache.json', 'utf8');
